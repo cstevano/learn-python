@@ -7,4 +7,4 @@ an error? """
 prnt("Hello, World!")
 
 """ the code at line 7 will generates error because of mistyped function name (it should be "print").
-What's on the inside of the quotation mark does not matter.
+What's on the inside of the quotation mark does not matter. """
